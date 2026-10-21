@@ -1,0 +1,14 @@
+{
+	"geode": "4.6.0",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "mateoxdop.inputbuffer",
+	"name": "Input Buffer",
+	"version": "v1.0.0",
+	"developer": "mateoxdop",
+	"description": "Retiene tus clicks tempranos hasta que sean validos."
+}
